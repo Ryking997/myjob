@@ -5,12 +5,19 @@ Aware Outsourcing Services Corporation (Thailand) Ltd. (AOS)
 Responsibilities:
 หน้าที่รับผิดชอบ
     >Designing and implementing Java-based applications
+    การออกแบบและการใช้งานแอปพลิเคชันบน Java
     >Analyzing user requirements to inform application design
-    >Debugging and resolving technical problems that arise
+    วิเคราะห์ความต้องการของผู้ใช้เพื่อแจ้งการออกแบบแอพพลิเคชั่น
+    >Contribute to work with key partners as required
+    มีส่วนร่วมทำงานร่วมกับพันธมิตรหลักตามความจำเป็น
+    
 
 
 Requirements:
 คุณสมบัติที่ต้องการ
     >At least 1 year's working experience in Java platform programming.
+    มีประสบการณ์การทำงานอย่างน้อย 1 ปีในการเขียนโปรแกรมแพลตฟอร์ม Java
     >Experience with user interface design and database structures
+    มีประสบการณ์ในการออกแบบส่วนต่อประสานกับผู้ใช้และโครงสร้างฐานข้อมูล
     >Familiar with various design and architectural patterns
+    คุ้นเคยกับการออกแบบและรูปแบบสถาปัตยกรรมต่างๆ    
